@@ -1,2 +1,4 @@
 # learning-git
-Learning gir bash
+Learning git bash
+this is a new line
+
